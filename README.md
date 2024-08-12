@@ -52,7 +52,7 @@ To set up this project locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/movie-genre-classification.git
+git clone https://github.com/oshimkhan/movie-genre-classification.git
 cd movie-genre-classification
 Install the required Python packages:
 bash
